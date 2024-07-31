@@ -1,0 +1,173 @@
+[
+    {
+        "id": 89,
+        "name": "Farmers Pick",
+        "ost": "299",
+        "shop": "Pizza Hut",
+        "type": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+        "lotest": "No"
+    },
+    {
+        "id": 124,
+        "name": "Paper Roast Dosa",
+        "out": "65",
+        "shop": "Sri Saivihar",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 25,
+        "name": "Alfredo Pasta",
+        "oet": "185",
+        "shop": "LAKSHMI FOOD",
+        "ftype": "Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/26.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 45,
+        "name": "Chicken 65",
+        "ost": "228",
+        "shop": "Salem Rr Briyani",
+        "ftype": "Non-Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/9.jpg",
+        "latest": "No"
+    },
+    {
+        "Id": 88,
+        "name": "Romo Mia Neal",
+        "out": "299",
+        "shop": "Pizza Hut",
+        "type": "Pizza",
+        "pic": "https: //www.app.tutorjons.in/ing/food/88.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 28,
+        "name": "Orange Juice",
+        "out": "70",
+        "shop": "JUICE MALL",
+        "ftype": "Juice",
+        "pic": "https://www.app.tutorjoes.in/img/food/28.1pg",
+        "Latest": "No"
+    },
+    {
+        "id": 47,
+        "noви": "Milk Halwo",
+        "oor": "77",
+        "shop": "Shri Gupta Sweets",
+        "type": "Sweet",
+        "pic": "https://www.app.tutorjoes.in/img/food/67.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 320,
+        "name": "Vegetable Soup",
+        "ant": "123",
+        "shop": "Sri Saivihar",
+        "type": "Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/120.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 20,
+        "name ": "Hyderabad Chicken Dry",
+        "ont": "235",
+        "shop": "LAKSHMI FOOD",
+        "type": "Non-Veg",
+        "pic": "https://www.app.tutorjoes.in/ing/food/20.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 133,
+        "name": "Spicy Chicken Afghani",
+        "ant": "350",
+        "shop": "Tandoori Wala",
+        "type": "Ron-Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/133.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 130,
+        "name": "Veg Seekh Kebab",
+        "ont": "238",
+        "shop": "Tandoori Wala",
+        "type": "Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/130.jpg",
+        "torest": "Yes"
+    },
+    {
+        "id": 71,
+        "name": "Halai loda",
+        "out": "35",
+        "shop": "Shri Gupta Sweets",
+        "type": "Sweet",
+        "pic": "https: //www.app.tutorjoes.in/img/food/71.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 58,
+        "name": "Jam Roll Cake",
+        "ost": "101",
+        "shop": "Henry & Wolsey",
+        "type": "Cake",
+        "pic": "https: //www.app.tutorjoes.in/img/food/58.jpg",
+        "Intest": "No"
+    },
+    {
+        "id": 113,
+        "name": "Curd Vadai",
+        "ast": "30",
+        "shop": "Sri Saivihar",
+        "type": "Veg",
+        "pic": "https: //www.app.tutorjoes.in/img/food/113.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 82,
+        "name": "Mono Mia Choco Sundae Meal",
+        "ost": "319",
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https: //www.app.tutorjoes.in/ing/food/82.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 66,
+        "name": "Classic Walnut Brownie",
+        "ost": "157",
+        "shop": "Shris Cake Zone",
+        "ftype": "Cake",
+        "pic": "https: //www.app.tutorjoes.in/ing/food/66.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 12,
+        "none": "Veg Extravaganza Pizza",
+        "ont": "219",
+        "shop": "LAKSHMI FOOD",
+        "Stupe": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/12.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 137,
+        "name": "Crean of Chicken Soup",
+        "at": "150",
+        "shop": "Tandoori Wala",
+        "type": "Soup",
+        "pic": "https: //www.app.tutorjoes.in/ing/food/137.jpg",
+        "Lotest": "No"
+    },
+    {
+        "id": 105,
+        "name": "Paratha",
+        "ost": "65",
+        "shop": "Pugal Ragu Bawa Tiffen Center",
+        "Stupe": "Veg",
+        "pic": "https: //www.app.tutorjoes.in/ing/food/105.jpg",
+        "Latest": "No"
+    }
+]
