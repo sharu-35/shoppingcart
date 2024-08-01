@@ -1,10 +1,19 @@
-import React from 'react'
+import React, { useState } from 'react'
+import product from "../assets/Product.json"
+import Lable from './Lable';
+import "./Home.css"
 
-const Home = () => {
+const Home = ({cart,setcart}) => {
+  const [Product]=useState(product);
   return (
-    <div>
-      <p>nbcjjsc</p>
+    <>
+    <div className='product-container'>
+      {Product.map((products)=>(
+        <Lable key={products.id} products={products} cart={cart} setcart={setcart}/>
+      ))}
+     
     </div>
+    </>
   )
 }
 
